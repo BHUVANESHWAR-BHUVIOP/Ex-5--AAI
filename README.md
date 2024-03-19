@@ -81,7 +81,7 @@ plt.show()
 ```
 
 <H3>Output:</H3>
-![1 (1)](https://github.com/BHUVANESHWAR-BHUVIOP/Ex-5--AAI/assets/94155099/78090953-5541-4476-9f5e-26f08e94828e)
+![13](https://github.com/BHUVANESHWAR-BHUVIOP/Ex-5--AAI/assets/94155099/5c0607dc-d13b-4537-9629-294a79bc10e5)
 
 
 <H3>Results:</H3>
