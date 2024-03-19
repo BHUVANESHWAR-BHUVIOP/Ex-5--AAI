@@ -81,6 +81,7 @@ plt.show()
 ```
 
 <H3>Output:</H3>
+
 ![13](https://github.com/BHUVANESHWAR-BHUVIOP/Ex-5--AAI/assets/94155099/5c0607dc-d13b-4537-9629-294a79bc10e5)
 
 
